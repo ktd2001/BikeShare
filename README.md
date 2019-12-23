@@ -11,7 +11,7 @@ BASH, Numpy, Matplotlib, CVS
 
 <img src="bike.png" width="300" >
 
-**Image:Heatmap Usage**
+**Image:Heatmap of Bike Usage**
 
 <img src="heatfig.png" width="300" >
 
