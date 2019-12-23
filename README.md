@@ -9,9 +9,7 @@ BASH, Numpy, Matplotlib, CVS
 
 **Image:Hexabin Graph of Bike Usage**
 
-<img src="bike.png" width="300" >that
-22
-thatthat
+<img src="bike.png" width="300" >
 
 **Image:Heatmap Usage**
 
@@ -20,6 +18,4 @@ thatthat
 **Image:Frequency Use by the Hour**
 
 <img src="hourfig.png" width="300" >
-that
-22
-thatthat
+
