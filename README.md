@@ -9,7 +9,9 @@ BASH, Numpy, Matplotlib, CVS
 
 **Image:Bike 4051 Hexabin Display**
 
-<img src="bike.png" width="300" >
+<img src="bike.png" width="300" >that
+22
+thatthat
 
 **Image:Heatmap Usage**
 
@@ -19,3 +21,5 @@ BASH, Numpy, Matplotlib, CVS
 
 <img src="hourfig.png" width="300" >
 that
+22
+thatthat
