@@ -7,7 +7,7 @@ The BikeShare project explores bike share systems data in the City of Philadelph
 
 BASH, Numpy, Matplotlib, CVS
 
-**Image:Bike 4051 Hexabin Display**
+**Image:Hexabin Graph of Bike Usage**
 
 <img src="bike.png" width="300" >that
 22
